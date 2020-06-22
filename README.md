@@ -1,2 +1,2 @@
-# TIC-TOK-.PY
-tic tok game using python
+# TIC-TAC-.PY
+tic tac game using python
